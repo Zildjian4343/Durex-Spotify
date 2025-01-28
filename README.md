@@ -8,31 +8,7 @@
     </b>
   </div>
 </h2>
-<h1 id="features" style="color: #333;">Features:</h1>
-<ul style="font-size: 18px; color: #555;">
-  <li><strong>Blocks all ads in the client</strong> - Enjoy uninterrupted music streaming with zero ads.</li>
-  <li><strong>Set custom settings using SpotX (hide podcasts and more)</strong> - Personalize your Spotify experience by hiding certain features.</li>
-  <li><strong>Block Spotify automatic updates (optional)</strong> - Control when updates are installed, giving you more flexibility.</li>
-  <li><strong>Code minification</strong> - Optimized and faster loading times for a smoother experience.</li>
-  <li><strong>Supports custom skins and themes</strong> - Customize the look and feel of the app with various skins and themes.</li>
-  <li><strong>Enhanced streaming quality</strong> - Enjoy higher quality audio for a more immersive music experience.</li>
-  <li><strong>Integrated dark mode toggle</strong> - Switch to dark mode for a more comfortable viewing experience in low-light environments.</li>
-  <li><strong>Improved search functionality with advanced filters</strong> - Find your favorite music faster with enhanced search features.</li>
-  <li><strong>Offline mode for playlist access without internet</strong> - Listen to your favorite playlists even when you're not connected to the internet.</li>
-  <li><strong>Supports high-definition album art</strong> - View stunning high-resolution album artwork for your music library.</li>
-  <li><strong>Customizable equalizer settings for personalized sound</strong> - Tailor your audio output to match your specific audio preferences.</li>
-  <li><strong>Global keyboard shortcuts for easy control</strong> - Control playback effortlessly using customizable keyboard shortcuts.</li>
-  <li><strong>Auto-skip intros and outros on playlists</strong> - Skip unwanted intros and outros to focus on the main content of your playlists.</li>
-  <li><strong>Support for multi-device synchronization</strong> - Keep your Spotify library synchronized across all your devices automatically.</li>
-  <li><strong>Spotify Library backup and restore</strong> - Backup your playlists, preferences, and settings for easy restoration if needed.</li>
-  <li><strong>Unlimited skips for tracks</strong> - Skip any song without limitations, giving you full control of your listening experience.</li>
-  <li><strong>Customizable notifications</strong> - Choose how and when you receive notifications, ensuring that they align with your preferences.</li>
-  <li><strong>Playlist organizer</strong> - Easily manage and organize your playlists with enhanced sorting and categorization features.</li>
-  <li><strong>Cross-platform compatibility</strong> - Use the tool on multiple platforms like Windows, Mac, and Linux for seamless access across all your devices.</li>
-  <li><strong>Enhanced privacy features</strong> - Protect your Spotify account with enhanced privacy and security settings, ensuring your data remains secure.</li>
-  <li><strong>Customizable music playback speed</strong> - Adjust the playback speed of your music for more flexible listening.</li>
-  <li><strong>Track and playlist sharing with friends</strong> - Easily share tracks and playlists with your friends, making music discovery fun and social.</li>
-</ul>
+
 
 <h3 align="center" style="font-size: 20px; color: #333;">
   <strong>
@@ -87,7 +63,31 @@
     <i>(See <a target="_blank" href="/virus-check.png" style="color: #1DB954;">virus-check.png</a>)</i>
   </li>
 </ul>
-
+<h1 id="features" style="color: #333;">Features:</h1>
+<ul style="font-size: 18px; color: #555;">
+  <li><strong>Blocks all ads in the client</strong> - Enjoy uninterrupted music streaming with zero ads.</li>
+  <li><strong>Set custom settings using SpotX (hide podcasts and more)</strong> - Personalize your Spotify experience by hiding certain features.</li>
+  <li><strong>Block Spotify automatic updates (optional)</strong> - Control when updates are installed, giving you more flexibility.</li>
+  <li><strong>Code minification</strong> - Optimized and faster loading times for a smoother experience.</li>
+  <li><strong>Supports custom skins and themes</strong> - Customize the look and feel of the app with various skins and themes.</li>
+  <li><strong>Enhanced streaming quality</strong> - Enjoy higher quality audio for a more immersive music experience.</li>
+  <li><strong>Integrated dark mode toggle</strong> - Switch to dark mode for a more comfortable viewing experience in low-light environments.</li>
+  <li><strong>Improved search functionality with advanced filters</strong> - Find your favorite music faster with enhanced search features.</li>
+  <li><strong>Offline mode for playlist access without internet</strong> - Listen to your favorite playlists even when you're not connected to the internet.</li>
+  <li><strong>Supports high-definition album art</strong> - View stunning high-resolution album artwork for your music library.</li>
+  <li><strong>Customizable equalizer settings for personalized sound</strong> - Tailor your audio output to match your specific audio preferences.</li>
+  <li><strong>Global keyboard shortcuts for easy control</strong> - Control playback effortlessly using customizable keyboard shortcuts.</li>
+  <li><strong>Auto-skip intros and outros on playlists</strong> - Skip unwanted intros and outros to focus on the main content of your playlists.</li>
+  <li><strong>Support for multi-device synchronization</strong> - Keep your Spotify library synchronized across all your devices automatically.</li>
+  <li><strong>Spotify Library backup and restore</strong> - Backup your playlists, preferences, and settings for easy restoration if needed.</li>
+  <li><strong>Unlimited skips for tracks</strong> - Skip any song without limitations, giving you full control of your listening experience.</li>
+  <li><strong>Customizable notifications</strong> - Choose how and when you receive notifications, ensuring that they align with your preferences.</li>
+  <li><strong>Playlist organizer</strong> - Easily manage and organize your playlists with enhanced sorting and categorization features.</li>
+  <li><strong>Cross-platform compatibility</strong> - Use the tool on multiple platforms like Windows, Mac, and Linux for seamless access across all your devices.</li>
+  <li><strong>Enhanced privacy features</strong> - Protect your Spotify account with enhanced privacy and security settings, ensuring your data remains secure.</li>
+  <li><strong>Customizable music playback speed</strong> - Adjust the playback speed of your music for more flexible listening.</li>
+  <li><strong>Track and playlist sharing with friends</strong> - Easily share tracks and playlists with your friends, making music discovery fun and social.</li>
+</ul>
 <h1 id="uninstall" style="color: #333;">Uninstall:</h1>
 <ul style="font-size: 18px; color: #555;">
   <li><strong>Reinstall Spotify:</strong> <i><strong>(recommended)</strong></i></li>
@@ -99,6 +99,7 @@
 <p style="font-size: 18px; color: #555;">
   This tool is for <strong>educational purposes only</strong>. The developers are not responsible for any damage or issues caused by the use of this application. Use it at your own risk. The tool is not affiliated with Spotify.
 </p>
+
 
 <hr style="border: 1px solid #ccc;">
 
